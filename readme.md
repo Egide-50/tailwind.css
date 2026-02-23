@@ -21,3 +21,4 @@ Technologies Used
 HTML5
 
 Tailwind CSS (CDN)
+git clone https://github.com/Egide-50/tailwind.css.git
